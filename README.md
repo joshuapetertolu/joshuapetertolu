@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuapetertolu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuapetertolu&theme=tokyonight" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuapetertolu&theme=tokyonight" height="150px" />
 </p>
 
 <p align="center">
@@ -22,7 +22,8 @@
 ### 📊 Engineering Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joshuapetertolu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuapetertolu&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+  
+  <img src="https://skill-badges.vercel.app/api/index.svg?style=for-the-badge&labels=true&badges=react,typescript,expo,flutter,swift,kotlin" height="40px" />
 </div>
 
 ---
