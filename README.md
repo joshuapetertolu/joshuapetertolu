@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Galaxy_Brain-Achieved-purple?style=for-the-badge&logo=github" />
 </p>
 
-  <h3>🚀 Mobile Engineer | React Native • Kotlin • Swift • Flutter</h3>
+  <h3>🚀 Mobile Engineer | React Native • Expo • TypeScript • Flutter • Swift</h3>
   <p><i>Building seamless cross-platform experiences with high-performance code.</i></p>
 </div>
 
@@ -30,13 +30,10 @@
 ### 🛠️ Mobile Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
 ---
