@@ -1,9 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0095D5&height=200&section=header&text=Joshua%20Peter&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=joshuapetertolu&theme=tokyonight&no-frame=false&margin-w=15&column=5" alt="Joshua's Trophies" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuapetertolu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuapetertolu&theme=tokyonight" height="150px" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public_Adventurer-Earned-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Pull_Shark-Level_2-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Galaxy_Brain-Achieved-purple?style=for-the-badge&logo=github" />
+</p>
 
   <h3>🚀 Mobile Engineer | React Native • Kotlin • Swift • Flutter</h3>
   <p><i>Building seamless cross-platform experiences with high-performance code.</i></p>
