@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0095D5&height=200&section=header&text=Joshua%20Peter&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=joshuapetertolu&theme=tokyonight&no-frame=true&column=4" alt="github trophies" />
-  </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joshuapetertolu&theme=dracula&no-frame=false&margin-w=15&column=5" alt="github trophies" />
+</p>
 
   <h3>📱 Mobile Developer | React Native • Kotlin • Swift • Flutter</h3>
   <p><i>Transforming complex ideas into elegant mobile experiences.</i></p>
