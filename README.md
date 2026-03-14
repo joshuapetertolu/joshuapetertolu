@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=joshuapetertolu&theme=tokyonight&no-frame=false&margin-w=15&column=5" alt="Joshua's Trophies" />
   </p>
 
-  <h3>🚀 Senior Mobile Engineer | React Native • Kotlin • Swift</h3>
+  <h3>🚀 Mobile Engineer | React Native • Kotlin • Swift • Flutter</h3>
   <p><i>Building seamless cross-platform experiences with high-performance code.</i></p>
 </div>
 
