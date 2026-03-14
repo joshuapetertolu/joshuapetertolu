@@ -22,8 +22,6 @@
 ### 📊 Engineering Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joshuapetertolu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
-  
-  <img src="https://skill-badges.vercel.app/api/index.svg?style=for-the-badge&labels=true&badges=react,typescript,expo,flutter,swift,kotlin" height="40px" />
 </div>
 
 ---
